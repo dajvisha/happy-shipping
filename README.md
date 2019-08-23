@@ -5,4 +5,4 @@
 
 ### :octocat: Git
 
-* [PRs (Pull Requests)]()
+* [PRs (Pull Requests)](https://github.com/diegoajv/happy-shipping/blob/master/engineering/git/pull_requests.md)
